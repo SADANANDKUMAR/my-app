@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Marketing-Dashboard-Performance-Optimization/static/css/main.e6c13ad2.css",
-    "main.js": "/Marketing-Dashboard-Performance-Optimization/static/js/main.ad016a79.js",
+    "main.js": "/Marketing-Dashboard-Performance-Optimization/static/js/main.99bb70c8.js",
     "static/js/453.c3db55c9.chunk.js": "/Marketing-Dashboard-Performance-Optimization/static/js/453.c3db55c9.chunk.js",
     "index.html": "/Marketing-Dashboard-Performance-Optimization/index.html",
     "main.e6c13ad2.css.map": "/Marketing-Dashboard-Performance-Optimization/static/css/main.e6c13ad2.css.map",
-    "main.ad016a79.js.map": "/Marketing-Dashboard-Performance-Optimization/static/js/main.ad016a79.js.map",
+    "main.99bb70c8.js.map": "/Marketing-Dashboard-Performance-Optimization/static/js/main.99bb70c8.js.map",
     "453.c3db55c9.chunk.js.map": "/Marketing-Dashboard-Performance-Optimization/static/js/453.c3db55c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ad016a79.js"
+    "static/js/main.99bb70c8.js"
   ]
 }
